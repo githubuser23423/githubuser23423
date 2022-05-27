@@ -1,0 +1,32 @@
+Welcome messages⬇
+
+🍪🥛Welcome to Pastriez Bakery. How could i help you?🍪🥛
+
+Hi! Welcome to Pastriez Bakery. What would you like to order?
+
+Hello! Pastriez Bakery. How could i help you today?
+
+Welcome! Pastriez Bakery has lots of things to offer. What would you like to get?
+______________________________________________________________
+
+Filter messages/Order accepted messages⬇
+
+
+👍🍴Seems delicious! Your order will be here shortly👍🍴
+
+
+Seems like a good choice! We will make your meal shortly.
+
+That seems tasty😋 Your order will be here shortly.
+
+
+______________________________________________________________
+
+Gb messages/final message⬇
+
+
+👋Thank you for visiting Pastriez Bakery. Hope you come back soon👋
+
+Hope you had a great experience. We would like to see you again soon!
+
+Happy to see you enjoy your experience. Have a great rest of your day!
